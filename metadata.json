@@ -1,0 +1,10 @@
+{
+  "name": "귀여운 우리반 네컷",
+  "description": "유치원 친구들을 위한 3,2,1 카운트다운 5장 촬영 및 4장 선택 귀여운 네컷 사진관",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
